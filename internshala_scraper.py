@@ -84,7 +84,7 @@ for card in job_cards:
         "SkillsRequired": skills,
         "Salary": salary,
         "JobDescriptionSummary": job_desc,
-        "Job Link": job_url 
+        "JobURL": job_url 
     })
 
 # Save to Excel
